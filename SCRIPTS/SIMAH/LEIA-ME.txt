@@ -1,0 +1,2 @@
+Esse script serve para que você tome controle das pastas do sistema system32 e da syswow64, onde ficam muitas dlls do Windows que você normalmente não pode substituir. Script criado em resposta a um problema de um programa que precisava de dlls em uma versão diferente, e para que você pudesse cadastrá-las com mais facilidade e substitui-las. 
+ 

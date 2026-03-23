@@ -1,0 +1,1 @@
+Utilitário geral com vários scripts que eu juntei ao longo do tempo e criei de acordo com as necessidades no meu último trabalho. Todos os scripts aqui são livres para uso de acordo com o que quiserem, seguindo a lógica do open source. 
